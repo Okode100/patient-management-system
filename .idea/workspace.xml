@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/patient-management-frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -28,7 +28,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.19.5&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.19.26&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/moses/patient-management-system&quot;,
@@ -73,7 +73,7 @@
       <workItem from="1765195814959" duration="7512000" />
       <workItem from="1765266541230" duration="7908000" />
       <workItem from="1765283990666" duration="10391000" />
-      <workItem from="1765350613483" duration="6841000" />
+      <workItem from="1765350613483" duration="7169000" />
     </task>
     <servers />
   </component>
